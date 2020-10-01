@@ -1,0 +1,9 @@
+HR Analytics 
+-----------------------------------------------------------------------------------------
+1)First import the Data
+2)It is found that the Laboratory Technician is the Job role that has high Attrition rate
+followed by other roles
+3)Top three categories are these having attrition 
+4)After promotion moving because of better offers /Salary , new trying to get into new things
+5)After working for 1 year or so they are leaving the company.
+6)
