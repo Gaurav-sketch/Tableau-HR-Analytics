@@ -3,3 +3,6 @@ We know that the company’s most important asset is their people. Organizations
 1)It is found that the Laboratory Technician is the Job role that has high Attrition rate followed by other roles.
 2)After promotion moving because of better offers /Salary .
 3)After working for 1 year or so they are leaving the company.
+
+
+<img src="https://github.com/Gaurav-sketch/Tableau-HR-Analytics/blob/master/HR_Analytics.jpg" />
